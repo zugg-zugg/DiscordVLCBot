@@ -1,0 +1,22 @@
+{
+    "playlists": [
+        {
+            "id": 1,
+            "name": "Playlist_Name",
+            "description": "Playlist Description",
+            "file": "C:/localpath/Playlist_Name.xspf"
+        },
+        {
+            "id": 2,
+            "name": "Playlist_Name2",
+            "description": "Playlist Description",
+            "file": "C:/localpath/Playlist_Name2.xspf"
+        },
+        {
+            "id": 3,
+            "name": "Playlist_Name3",
+            "description": "Playlist Description",
+            "file": "C:/localpath/Playlist_Name3.xspf"
+        }
+    ]
+}
