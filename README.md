@@ -43,3 +43,10 @@ Features
 - Create a local JSON file (e.g., playlists.json) that contains the list of playlists.
 - Update the bot script to read from this JSON file and provide commands to list and select playlists.
 - Included is a sample playlist you can reference for your own. In the near future I will fix the playlist selection capabilities.
+
+**Discord_bot.py Setup**
+1. Ensure the VLC web interface is enabled and accessible.
+2. Replace your_password with the password for the VLC web interface.
+3. Replace your_discord_bot_token with your Discord bot token.
+4. Create a file named playlists.json in the same directory as your script with the correct structure.
+5. Run the script.
